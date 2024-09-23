@@ -1,0 +1,21 @@
+table,tr,th,td {
+border:1px solid black;
+outline:3px solid pink;
+margin:0 auto;
+}
+img{
+margin-left:45%
+}
+h1{
+text-align:center;
+}
+#info{
+text-align:center;
+}
+h2{
+border:1px solid blue;
+border-left :5px solid  rgba(227, 61, 148,0.6);
+padding:5px;
+
+}
+
